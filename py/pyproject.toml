@@ -6,13 +6,13 @@ authors = ["nt"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-#python = "^3.10"
-python = ">=3.10,<3.13"
+python = "^3.10"
+#python = ">=3.10,<3.13"
 #pipreqs = "^0.5.0"
 beautifulsoup4 = "4.12.3"
 requests = "2.31.0"
-twikit = "^1.1.29"
-
+twikit = "^1.2.4"
+loguru = "^0.7.2"
 
 [build-system]
 requires = ["poetry-core"]
