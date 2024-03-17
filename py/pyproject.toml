@@ -11,8 +11,11 @@ python = "^3.10"
 #pipreqs = "^0.5.0"
 beautifulsoup4 = "4.12.3"
 requests = "2.31.0"
-twikit = "^1.2.4"
+twikit = "1.2.4"
 loguru = "^0.7.2"
+psutil = "^5.9.8"
+schedule = "^1.2.1"
+pyrfc6266 = "^1.0.2"
 
 [build-system]
 requires = ["poetry-core"]

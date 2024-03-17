@@ -1,4 +1,7 @@
 beautifulsoup4==4.12.3
 loguru==0.7.2
+psutil==5.9.8
+pyrfc6266==1.0.2
 Requests==2.31.0
-twikit==1.2.5
+schedule==1.2.1
+twikit==1.2.7
